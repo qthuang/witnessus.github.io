@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: Rapid
-Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+可以直接access的网址是 qthuang.github.io/witnessus.github.io
